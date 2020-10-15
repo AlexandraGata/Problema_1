@@ -1,0 +1,5 @@
+﻿  Problema_1.cpp
+C:\Users\Alexandra\Documents\3.Git_hub\Problema_1\Problema_1\Problema_1.cpp(40,5): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Alexandra\Documents\3.Git_hub\Problema_1\Problema_1\Problema_1.cpp(41,5): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Alexandra\Documents\3.Git_hub\Problema_1\Problema_1\Problema_1.cpp(67,12): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+  Problema_1.vcxproj -> C:\Users\Alexandra\Documents\3.Git_hub\Problema_1\Debug\Problema_1.exe
